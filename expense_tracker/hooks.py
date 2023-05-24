@@ -199,3 +199,5 @@ app_license = "MIT"
 # auth_hooks = [
 #	"expense_tracker.auth.validate"
 # ]
+
+website_route_rules = [{'from_route': '/expenses/<path:app_path>', 'to_route': 'expenses'},]

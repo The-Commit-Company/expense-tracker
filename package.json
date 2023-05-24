@@ -1,0 +1,14 @@
+{
+  "name": "expense_tracker",
+  "version": "1.0.0",
+  "description": "An app to track expenses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd expenses && yarn dev",
+    "build": "cd expenses && yarn build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
